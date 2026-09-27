@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navin Kumar
 
-### 💻 BCA (cyber security) Student | Java,Python,HTML & SQL| Networking,programming & DSA Learner | Cyber Security Enthusiast
+### 💻 BCA (cyber security)'s Student | Java,Python,HTML & SQL| Networking,programming & DSA Learner | Cyber Security Enthusiast
 
 Welcome to my GitHub profile! I'm a BCA (cyber security) student passionate about **software development, problem-solving, Data Structures & Algorithms, and Cyber Security**.
 
